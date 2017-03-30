@@ -1,0 +1,16 @@
+{
+  "name": "node-files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "randomFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yann Braga",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.2",
+    "express": "^4.15.2"
+  }
+}
